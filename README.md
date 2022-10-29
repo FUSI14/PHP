@@ -1,2 +1,2 @@
 # PHP
-Just rubbish.
+Nothing there.
